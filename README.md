@@ -13,7 +13,7 @@ Modern NLP models frequently achieve deceptive high accuracy scores by leveragin
 ---
 
 ## 📁 Repository Structure
-Based on the workspace snapshot in `image_64b37f.png`, the repository is organized as follows:
+The repository is organized as follows:
 * `hans.ipynb` — **Main Execution Environment.** This Jupyter Notebook contains the step-by-step EDA, the Word Overlap baseline execution, raw model inference pipeline, and detailed breakdown tables.
 * `hans/` — Core HANS dataset files and evaluation tracking tools.
   * `heuristics_evaluation_set.jsonl` — Raw diagnostic validation subset containing target labels and heuristic types.
